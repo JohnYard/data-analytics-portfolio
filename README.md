@@ -10,7 +10,7 @@ Welcome to my data analytics repository! This portfolio is divided into two prim
 data-analytics-portfolio/
 │
 ├── python_finance/          # Financial time-series analysis and trading strategies
-└── swl_analytics/           # Advanced SQL queries, datasets, and relational database projects
+└── sql_analytics/           # Advanced SQL queries, datasets, and relational database projects
 ``` 
 
 ## 📈 1. Python for Finance (`python_finance/`)
