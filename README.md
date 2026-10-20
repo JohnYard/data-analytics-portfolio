@@ -22,7 +22,7 @@ This module covers the journey from core data manipulation with Pandas to backte
 | **01** | **The Pandas Library** | Core DataFrame operations, data cleaning, indexing, and structural manipulation. |
 | **02** | **Matplotlib & Seaborn** | Visualizing price action, volume histograms, and customizing financial charts. |
 | **03** | **Master Fin Analysis with Pandas** | Computing percentage returns, rolling statistical windows, and financial aggregations. |
-| **04** | **Nail the Time Factor in Finance** | Handling financial timestamps, datetime indexes, timezones, and resampling time-series data. |
+| **04** | **Time Factor in Finance** | Handling financial timestamps, datetime indexes, timezones, and resampling time-series data. |
 | **05** | **Trading Strategy with Pandas** | Implementing quantitative rules, technical indicator logic, and generating trade signal columns. |
 | **06** | **Analyse a Trading Strategy with Pandas** | Evaluating backtest performance, cumulative returns, drawdowns, and strategy metrics. |
 
